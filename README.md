@@ -1,4 +1,4 @@
-# Thought Labs
+# Thought Labs <img src="https://github.com/Rajkarnikar-unish/blog-frontend/blob/0459a01d1a5d0b57b5fab39ce0243377ead4b890/public/logo-no-bg.png"/>
 
 A full stack content management system for managing and publishing blog posts. Built using Spring Boot for the backend and ReactJS for the frontend, with integration of MySQL, AWS S3, CloudFront, OAuth2 for Social Sign-ins.
 
